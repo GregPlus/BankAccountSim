@@ -1,0 +1,15 @@
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.csproj.AssemblyReference.cache
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.AssemblyInfoInputs.cache
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.AssemblyInfo.cs
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.csproj.CoreCompileInputs.cache
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\bin\Debug\net6.0\TutorialBankAccountSim.exe
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\bin\Debug\net6.0\TutorialBankAccountSim.deps.json
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\bin\Debug\net6.0\TutorialBankAccountSim.runtimeconfig.json
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\bin\Debug\net6.0\TutorialBankAccountSim.dll
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\bin\Debug\net6.0\TutorialBankAccountSim.pdb
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.dll
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\refint\TutorialBankAccountSim.dll
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.pdb
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\TutorialBankAccountSim.genruntimeconfig.cache
+C:\Users\Greg Lee\source\repos\TutorialBankAccountSim\TutorialBankAccountSim\obj\Debug\net6.0\ref\TutorialBankAccountSim.dll
